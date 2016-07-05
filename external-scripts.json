@@ -8,9 +8,5 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-darts",
-  "hubot-trivia-game",
-  "hubot-spotify-search"
-
+  "hubot-shipit"
 ]
