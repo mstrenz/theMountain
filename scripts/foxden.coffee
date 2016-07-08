@@ -11,6 +11,8 @@ module.exports = (robot) ->
 
   robot.respond /foxden(.*)/i, (res) ->
     UserProvided = res.match[1]
+    UserProvided = UserProvided.substr(1) if UserProvided.charAt(0) is '@'
+
     users = robot.brain.usersForFuzzyName(UserProvided)
 
     if users.length > 1
