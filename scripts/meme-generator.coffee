@@ -1,5 +1,4 @@
-
-# Description:
+# Description
 #   Integrates with memegenerator.net
 #
 # Dependencies:
