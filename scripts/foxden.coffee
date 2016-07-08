@@ -10,4 +10,4 @@
 module.exports = (robot) ->
 
  robot.respond /foxden/, (res) ->
-   res.send "https://my.foxden.io"
+   res.send "https://my.foxden.io" + user.profile.email
