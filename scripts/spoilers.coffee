@@ -5,7 +5,7 @@
 #   #spoilit - Generates random mostly true game of thrones spoilers
 
 # Author:
-#   mstrenz@gmail.com
+#   matt.strenz@readytalk.com
 
 module.exports = (robot) ->
 

@@ -5,7 +5,7 @@
 #   mountain foxden <email>
 
 # Author:
-#   mstrenz@gmail.com
+#   matt.strenz@readytalk.com
 
 module.exports = (robot) ->
 
@@ -13,4 +13,5 @@ module.exports = (robot) ->
     email = res.match[1]
 
     res.send("https://my.foxden.io/#/meet/" + email.trim())
+
 
