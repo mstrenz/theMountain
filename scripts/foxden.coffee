@@ -2,7 +2,7 @@
 #   Generate a foxden invite with your email
 #
 # Commands:
-#   mountain foxden <email>
+#   mountain foxden <email> - Generates foxden join meeting link at email
 
 # Author:
 #   matt.strenz@readytalk.com
