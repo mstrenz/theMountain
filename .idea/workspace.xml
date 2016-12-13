@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4932c0f-eed4-4a63-b9d7-f6011e31e340" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/themountain_node_modules.xml" />
+    <list default="true" id="b4932c0f-eed4-4a63-b9d7-f6011e31e340" name="Default" comment="updating spoilers">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/spoilers.coffee" afterPath="$PROJECT_DIR$/scripts/spoilers.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themountain.iml" afterPath="$PROJECT_DIR$/themountain.iml" />
     </list>
     <ignored path="themountain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="spoilers.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/spoilers.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+            <state relative-caret-position="240">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -765,7 +762,7 @@
       <workItem from="1478814077412" duration="569000" />
       <workItem from="1478815721473" duration="111000" />
       <workItem from="1478818769298" duration="32000" />
-      <workItem from="1481665785421" duration="253000" />
+      <workItem from="1481665785421" duration="1642000" />
     </task>
     <task id="LOCAL-00001" summary="adding questions.json">
       <created>1470422887411</created>
@@ -781,11 +778,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470924904968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating spoilers">
+      <created>1481666048040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481666048040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21839000" />
+    <option name="totallyTimeSpent" value="23228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="0" width="1594" height="1200" extended-state="4" />
@@ -799,7 +803,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22655524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22655524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -832,7 +836,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding questions.json" />
     <MESSAGE value="removing name from foxden invite" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing name from foxden invite" />
+    <MESSAGE value="updating spoilers" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating spoilers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1176,8 +1181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/spoilers.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding />
         </state>
       </provider>
