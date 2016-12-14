@@ -74,5 +74,4 @@ module.exports = (robot) ->
             "It smacks into #{victimName}'s pinkie toe.  They go wee wee wee all the way home!",
             "The dart hits right on #{victimName}'s shin, knocking them to the ground"
           ]
-
-    msg.emote "fires a foam dart at #{victimName}'s #{aim}.  #{result target}"
+      msg.emote "fires a foam dart at #{victimName}'s #{aim}.  #{result target}"
